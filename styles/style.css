@@ -22,7 +22,7 @@
   list-style: none;
 }
 
-.header-menu-item { 
+.header-menu-item {
   list-style: circle;
 }
 
@@ -46,7 +46,7 @@
 
 .header-address {
   display: flex;
-  flex-direction: column; 
+  flex-direction: column;
   max-width: 240px;
   justify-self: end;
   align-items: flex-start;
@@ -131,8 +131,8 @@
   word-spacing: 14px;
 }
 
-.letter-spacing-extended{
- word-spacing: 18px;
+.letter-spacing-extended {
+  word-spacing: 18px;
 }
 
 .cover-bet-button {
@@ -278,12 +278,12 @@ ul {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 35px; 
+  margin-top: 35px;
 }
 
 .about-logo-image {
   display: block;
-  width: 148px; 
+  width: 148px;
 }
 
 .about-text-column {
@@ -326,7 +326,7 @@ ul {
 
 .footer-address {
   display: flex;
-  flex-direction: column; 
+  flex-direction: column;
   align-items: flex-start;
   max-width: 265px;
 } 
