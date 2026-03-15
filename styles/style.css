@@ -33,6 +33,7 @@
 .menu-link {
   text-underline-offset: 3px;
   text-decoration-thickness: 0.5px;
+  font-size: 18px;
 }
 
 .header-logo {
